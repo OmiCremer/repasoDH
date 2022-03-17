@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Practicar el switch",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Practicar el for",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Practicar primero escribir el algoritmo",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Ir a comprar lavandina",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "creando una tarea, prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "creando una tarea, prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Tarea creada, prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "creando una tarea, prueba",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "creando una tarea, prueba",
+        "estado": "pendiente"
+    }
+]
