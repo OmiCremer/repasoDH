@@ -25,4 +25,4 @@ https://www.racerbikes.com.ar (diseño con mejor vista, realizado con bootstrap
 
 # Tablero
 
-https://trello.com/b/7PaQGhB3
+https://trello.com/b/ybDpIajf/integradordh-webike
