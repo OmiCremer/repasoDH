@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+#ml-main-nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#ml-main-nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.burger-menu {
+    text-align: center;
+    font-size: 24px;
+    width: 40px;
+    padding: 4px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.banner {
+    width: 100%;
+}
+
+#main-content {
+    padding: 0 5%;
+}
+
+/* tablet */
+
+@media (max-width: 480px) {
+    .burger-menu {
+        display: none;
+    }
+}
