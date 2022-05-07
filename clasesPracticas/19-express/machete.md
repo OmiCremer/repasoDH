@@ -1,0 +1,7 @@
+- crear app.js
+- "Inicializar el proyecto de Javascript" -> `npm init -y`
+  -Me crea el package.json
+- "Inicializar el proyecto de Javascript" -> `npm init -y`
+- "Instalar la dependencia de express" -> `npm install express`
+- "importar express" requerir express en -> `app.js`
+- "crear una app de express" -> `express()`
